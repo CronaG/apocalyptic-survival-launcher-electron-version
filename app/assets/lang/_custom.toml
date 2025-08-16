@@ -11,8 +11,8 @@ mediaYouTubeURL = "https://www.youtube.com/@Crona-q4k"
 mediaDiscordURL = "https://discord.gg/hrqdBvnPAv"
 
 [ejs.settings]
-sourceGithubLink = "https://github.com/dscalZi/HeliosLauncher"
-supportLink = "https://github.com/dscalZi/HeliosLauncher/issues"
+sourceGithubLink = "https://github.com/CronaG/apocalyptic-survival-launcher-electron-version"
+supportLink = "https://github.com/CronaG/apocalyptic-survival-launcher-electron-version/issues"
 
 [ejs.welcome]
 welcomeHeader = "Bienvenue sur Dystopian"
