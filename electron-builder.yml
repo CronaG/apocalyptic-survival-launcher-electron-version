@@ -1,4 +1,4 @@
-nappId: 'com.ApocalypticSurvival.launcher'
+appId: 'com.ApocalypticSurvival.launcher'
 productName: 'Dystopian Launcher'
 artifactName: '${productName}-setup-${version}.${ext}'
 
