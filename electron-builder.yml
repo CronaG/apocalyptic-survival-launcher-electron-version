@@ -16,7 +16,7 @@ extraResources:
 # Windows Configuration
 win: 
   target: 
-    - target: 'portable'
+    - target: 'nsis'
       arch: 'x64'
 
 # Windows Installer Configuration
@@ -38,7 +38,7 @@ mac:
 
 # Linux Configuration
 linux: 
-  target: 'Snap'
+  target: 'AppImage'
   maintainer: 'dystopian'
   vendor: 'dystopian'
   synopsis: 'Modded Minecraft Launcher'
