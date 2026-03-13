@@ -27,12 +27,12 @@ jobs:
         with:
           python-version: 3.x
 
-      - name: Update Electron
-        run: npm i electron@latest
-        shell: bash
-
       - name: Install Dependencies
         run: npm ci
+        shell: bash
+
+      - name: Update Electron
+        run: npm i electron@latest
         shell: bash
 
       - name: Build
